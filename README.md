@@ -1,2 +1,9 @@
 # ChaosGame
-Using Python, I have simulated the structure of the chaos game and applying its logic I also implement and visualize the distribution of chromosomes in the human body genome using the DNA bases characters.
+Using Python, I have simulated the structure of the chaos game and applied its logic I also implement and visualize the distribution of chromosomes in the human body genome using the DNA bases characters. The aim of the report using 3 experiments verbally represents the computer-simulated project of a real-life concept. 
+Aims of the experiments: 
+1.	Vary the important parameter when considering the entirety of the project – the fraction of distance and comparing the figures after scattering points iteratively.
+2.	Observe the relevant differences between the plots obtained by varying values of n – the number of sides of the polygon.
+3.	Study the visualizations of the gene sequence, examine the changes observed for different ordering of bases, and analyze (figuratively) dependency of point plotting concerning different vertex (base).
+Initially, it was difficult to amalgamate myself into the concepts of the project, in particular the chaos game. Steadily I started to develop and understand the crux of it. After decent research, I started conceiving the concepts and visualization. This helped me tackle the first two experiments in continuity as they were based on a common concept. Later, came the most challenging section for me which was to develop the visualization of the chromosome distribution of the genome through concepts of chaos. I was struggling to interpret the connection and how could I build the logic. Gradually, connecting strands, clarifying my doubts with the professors, surfing the web for explanations, and repeated recitation of the guidance provided, I was successful in generating a reasonable plot showcasing the genetic distribution. It was exciting to form a fascinating game with intricate patterns.
+I learned to tackle a code from previous inputs to create an altogether different and enhanced output. I aimed to build and improve my programming skills as a coder.
+
